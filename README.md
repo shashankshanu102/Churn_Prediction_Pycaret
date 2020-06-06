@@ -1,6 +1,6 @@
 # Churn_Prediction_Pycaret
 
-**An introduction to Customer Churn Prediction using Pycaret** 
+# An introduction to Customer Churn Prediction using Pycaret
 
 **What is Customer Churning and why is it important to track for any business?**
 For a business in a stipulated period of time, customers can come under 3 major categories-

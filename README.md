@@ -40,3 +40,8 @@ To Predict Customer Churn Model based on various Variables like Customer Profile
 - Pycaret
 
 So we will be going to use Pycaret Library and predict customer churn. And observe how this library is helpful in decision of which algorithm best fit our data.
+
+
+Read more about Pycaret:
+
+- https://pycaret.org/

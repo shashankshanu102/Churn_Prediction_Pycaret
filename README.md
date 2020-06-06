@@ -32,3 +32,11 @@ PyCaret is an open source, low-code machine learning library in Python that allo
 
 To Predict Customer Churn Model based on various Variables like Customer Profile, Customer Account Information & Services that he has signed up for etc.
 
+
+# Tools and Framework Used:
+
+- Jupyter notebook
+- Google Colab
+- Pycaret
+
+So we will be going to use Pycaret Library and predict customer churn. And observe how this library is helpful in decision of which algorithm best fit our data.
